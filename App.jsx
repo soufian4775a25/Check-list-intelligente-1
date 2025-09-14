@@ -1,0 +1,35 @@
+    'Site Web Vitrine',
+    'Site E-commerce',
+    'Application Web (SaaS)',
+    'Application Mobile (iOS/Android)',
+    'Application Desktop',
+    'API/Service Web',
+    'Plateforme/Marketplace',
+    'Système de Gestion (CRM/ERP)',
+    'IA',
+    'Workflow',
+    'Agent IA',
+    'Traitement des données',
+    'Analyses des données',
+    'Génération multimédia',
+    'Maintenance',
+    'Montage',
+    'Formation technique',
+    'Formation spécifique',
+    'Conception',
+    'Support',
+    'Assistanat',
+    'Autre'
+  ]
+
+  const methodologies = [
+    'Agile/Scrum',
+    'Kanban',
+    'Waterfall',
+    'Scrumban (Hybride)',
+    'PRINCE2',
+    'Lean',
+    'Notion',
+    'Gantt',
+    'À définir avec l\'équipe'
+  ]
