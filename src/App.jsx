@@ -559,6 +559,16 @@ function App() {
           </motion.div>
         </motion.div>
       </div>
+
+      {/* Footer avec signature */}
+      <footer className="mt-12 py-6 border-t border-gray-200 bg-gray-50">
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <p className="text-sm text-gray-600">
+            Développé par <span className="font-semibold text-gray-800">SR</span> pour{' '}
+            <span className="font-semibold text-blue-600">Evolystis</span>
+          </p>
+        </div>
+      </footer>
     </div>
   )
 }
@@ -1472,4 +1482,3 @@ function ResultsStep({ formData, generateSpecifications }) {
 }
 
 export default App
-
